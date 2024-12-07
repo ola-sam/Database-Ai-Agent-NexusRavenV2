@@ -1,1 +1,3 @@
 # Database-Ai-Agent-NexusRavenV2
+
+In the world of data-driven decision-making, the ability to query and interact with databases efficiently can significantly streamline workflows. In this project, I developed a Database AI Assistant that allows users to interact with databases using natural language, making database queries more accessible, especially for non-technical users. The app leverages Streamlit for the frontend, Python for the backend, and NexusRavenV2-13B, a cutting-edge Large Language Model (LLM), to handle natural language processing (NLP) and SQL generation. By utilizing function calling and tools, I built a web app solution that transforms conversational input into SQL queries, all while maintaining a high degree of accuracy and performance.
